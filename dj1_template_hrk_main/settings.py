@@ -115,18 +115,18 @@ DATABASES = {
     }
 }
 
-DATABASESxp = {
+DATABASESp = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd4ejj9822e8v7e',
-        'USER': 'leazvhzuinglqr',
-        'PASSWORD': '4c95bbf3d027d650b2cc3f2c07670ad78ee42a9a15d1d1ccb080200472737fb9',
-        'HOST': 'ec2-54-225-76-201.compute-1.amazonaws.com',
+        'NAME': 'd3j1a4natldvcq',
+        'USER': 'accrblhutrtxmb',
+        'PASSWORD': 'ccc781ae09fa5ab3e99c288028bd28df9fb2140e635b6a7c30fbd4421635886a',
+        'HOST': 'ec2-107-22-189-136.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
 
-DATABASESxo = {
+DATABASESo = {
     'default': {
         'ENGINE': 'django.db.backends.oracle',
         'NAME': 'xe',

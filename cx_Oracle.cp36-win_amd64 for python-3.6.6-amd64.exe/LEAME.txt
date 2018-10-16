@@ -1,0 +1,4 @@
+Pegar estos en site-packages de yu entorno virtual
+por ejemplo:
+
+ve_1once\Lib\site-packages
